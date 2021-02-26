@@ -5,7 +5,7 @@ export const defaultPageProps = {
     links: [
       {
         link: {
-          title: 'New Arrivals',
+          title: 'New Arrivalssasssssssss',
           url: '/',
         },
       },
